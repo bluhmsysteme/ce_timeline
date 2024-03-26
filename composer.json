@@ -1,5 +1,5 @@
 {
-    "name": "simonkoehler/ce-timeline",
+    "name": "bluhmsysteme/ce-timeline",
     "type": "typo3-cms-extension",
     "version": "3.3.3",
     "description": "Enables a new content element of type Timeline",
