@@ -1,27 +1,8 @@
-# ![](https://github.com/koehlersimon/ce_timeline/blob/master/ext_icon.png?raw=true) ce_timeline - TYPO3 Extension
+# ce_timeline - TYPO3 Extension
+
+_forked for Bluhmsysteme by Die Medialen GmbH in 2024_
 
 This extension provides a new content element of type "Timeline" (ce_timeline) that contains inline records of different timeline entries. Please note that this is not a plugin and there are no records visible in any list view by default. Feel free to use the code or the extension as a basis for your own stuff.
-
-<table border="0">
-    <tr>
-        <th>Latest version</b></th>
-        <td>3.3.3</td>
-    </tr>
-    <tr>
-        <th>Status</b></th>
-        <td><strong>stable</strong></td>
-    </tr>
-    <tr>
-        <th>TYPO3 version</b></th>
-        <td>9.5.0 - 11.5.8</td>
-    </tr>
-    <tr>
-        <th>TER</b></th>
-        <td><a href="https://extensions.typo3.org/extension/ce_timeline/">Download</a></td>
-    </tr>
-</table>
-
-<hr>
 
 ## Features
 
